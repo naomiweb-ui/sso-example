@@ -34,7 +34,7 @@ function Login() {
   return (
     <div className="max-w-md mx-auto">
       <ToastContainer />
-      <h2 className="mb-4 text-2xl font-bold">Login</h2>
+      <h2 className="mb-4 text-2xl font-bold text-center">Myrian</h2>
       <form onSubmit={handleLogin} className="space-y-4">
         <input
           type="email"
